@@ -1,2 +1,1 @@
-# data_basics_20200809
-该python代码是斐波那契数列的实现
+﻿# data_basics_learning该项目是数据银行部专业技能培训的学习与作业提交
